@@ -12,6 +12,7 @@ vim.opt.wrap = true
 vim.opt.breakindent = true 
 vim.opt.shiftwidth = 2 
 vim.opt.expandtab = false 
+vim.opt.tabstop = 4
 
 --color scheme 
 vim.cmd.colorscheme('deus')

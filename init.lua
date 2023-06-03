@@ -15,7 +15,7 @@ vim.opt.expandtab = false
 vim.opt.tabstop = 4
 
 --color scheme 
-vim.cmd.colorscheme('deus')
+vim.cmd.colorscheme('kanagawa-dragon')
 
 -- save on the space bar click 
 vim.api.nvim_set_keymap('n', '<space>', ':w<CR>', {noremap=true})
